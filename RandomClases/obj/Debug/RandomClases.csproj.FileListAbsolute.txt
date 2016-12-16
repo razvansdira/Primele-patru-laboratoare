@@ -1,0 +1,5 @@
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\RandomClases\bin\Debug\RandomClases.dll
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\RandomClases\bin\Debug\RandomClases.pdb
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\RandomClases\obj\Debug\RandomClases.csprojResolveAssemblyReference.cache
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\RandomClases\obj\Debug\RandomClases.dll
+C:\Users\Razvan\Desktop\mvc curs 1\ClassesTutorial\RandomClases\obj\Debug\RandomClases.pdb
